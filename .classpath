@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AvaCore"/>
+	<classpathentry kind="lib" path="lib/icu4j-54.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-client-5.1.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-lang-en-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-runtime-5.1.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/voice-cmu-slt-hsmm-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/AvaCore/lib/apache-log4j-2.5-bin/log4j-api-2.5.jar" sourcepath="/AvaCore/lib/apache-log4j-2.5-bin/log4j-api-2.5-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Ava%20core/lib/apache-log4j-2.5-bin/log4j-api-2.5-sources.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
