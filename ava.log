@@ -1,0 +1,2 @@
+INFO  2016-06-05 21:52:23,745 [main] org.ava.marytts.MaryTTSPlugin:start(38): MaryTTS plugin started.
+INFO  2016-06-05 21:52:25,169 [main] org.ava.marytts.MaryTTSPlugin:stop(51): MaryTTS plugin stopped.
